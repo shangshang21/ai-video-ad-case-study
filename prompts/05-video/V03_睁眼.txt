@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, an extreme close-up of the woman's eyes in darkness shown in <Picture 1>, preserving her face, the small beauty mark below her left eye and the narrow slice of pale warm moonlight across her eyes. Her eyes are closed at first, then slowly open and focus. Near the end her eyes move toward the LEFT side of the frame (screen left), toward the window, and her head begins to turn to the screen left as well; she must not look toward the right side of the frame. The camera holds a static shot.
+
+overall_soundscape: Near silence; a single soft breath; faint drips of rain far away.
+
+non_diegetic_music: N/A

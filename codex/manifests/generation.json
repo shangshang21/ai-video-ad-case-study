@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "purpose": "usage-closeup",
+      "id": "455143580877205",
+      "model": "MiniMax-H3",
+      "status": "succeeded",
+      "requested_duration_seconds": 4,
+      "resolution": "768P",
+      "ratio": "16:9",
+      "usage": {
+        "total_seconds": 4,
+        "input_seconds": 0,
+        "output_seconds": 4,
+        "input_image_count": 2,
+        "total_tokens": 156236,
+        "prompt_tokens": 26040,
+        "completion_tokens": 130196
+      }
+    },
+    {
+      "purpose": "score-carrier",
+      "id": "455143907721618",
+      "model": "MiniMax-H3",
+      "status": "succeeded",
+      "requested_duration_seconds": 15,
+      "resolution": "768P",
+      "ratio": "16:9",
+      "usage": {
+        "total_seconds": 15,
+        "input_seconds": 0,
+        "output_seconds": 15,
+        "input_image_count": 0,
+        "total_tokens": 488235,
+        "prompt_tokens": 0,
+        "completion_tokens": 488235
+      }
+    }
+  ],
+  "music_api_attempt": {
+    "http_status": 410,
+    "business_status": 2153,
+    "result": "unavailable to new users; used H3 video soundtrack instead"
+  },
+  "asr_check": {
+    "model": "asr-1.0",
+    "text": "",
+    "duration_seconds": 15.075,
+    "scope": "score source only; not human listening"
+  },
+  "billing_amount": "not_verified",
+  "secrets_included": false,
+  "cost_estimate_manifest": "costs.json",
+  "billing_verification": {
+    "console_checked_on": "2026-10-22",
+    "per_task_actual_cny_debit_verified": false
+  }
+}

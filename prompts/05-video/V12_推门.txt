@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, a wide shot of the woman at the tall glass balcony door shown in <Picture 1>, preserving her black velvet top, wide-leg trousers, long black satin gloves, bare feet, the room and the city. Her gloved hand pushes the tall glass door open outward; the door swings slowly; the night wind rushes in and lifts her hair and the hem of her trousers. The camera holds a static shot.
+
+overall_soundscape: The metallic click of the door latch, the door sliding open, a rush of cool night wind and the city growing louder.
+
+non_diegetic_music: N/A

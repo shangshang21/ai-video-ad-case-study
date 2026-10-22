@@ -1,0 +1,9 @@
+USE: Keyframe for a lipstick commercial; it will be animated by a video model. Landscape 16:9.
+
+SCENE: A dark room at night; the background is out-of-focus darkness with a few warm specks of city light.
+
+SUBJECT: A hand in a long black satin opera glove (exactly like the glove in Image 2) is lifting the black lacquer cap off the lipstick; the cap has just separated, revealing the first sliver of the oxblood bullet. Image 1 is the lipstick reference: keep the exact glossy black lacquer tube, polished warm-gold sleeve and collar band with the small engraving "NOCTELLE" (the only text allowed), and the deep oxblood satin bullet with its sharply slanted tip.
+
+DETAILS: Real macro photograph, 100mm macro, slightly low angle. A warm side light from the left makes a thin bright line flare along the polished gold edge at the opening seam, like a jewel box being opened. Fine fabric texture on the satin glove.
+
+CONSTRAINTS: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain and gentle halation around bright lights. No other objects, no text other than the engraving, no logos.

@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, one continuous shot. It begins with Picture 1: an extreme close-up of the woman's eyes in darkness, a narrow slice of warm window light across them and the small beauty mark below her eye. She slowly blinks and her eyes focus. Then she turns her head to the RIGHT, toward the window. As she turns, the camera pulls out with large amplitude at slow speed and arcs around to her right, so her face becomes a clean profile facing the right side of the frame, and the tall rain-streaked window with the city lights and the thin gold crescent moon is revealed on the right. The light from the window draws a luminous rim along her forehead, nose and lips. It arrives at the composition, profile and lighting of Picture 2 at the end. Her lips stay bare and natural; no lipstick appears.
+
+overall_soundscape: Near silence, a soft breath, the last drops of rain tapping on the glass and a distant city hum fading in as the window is revealed.
+
+non_diegetic_music: N/A

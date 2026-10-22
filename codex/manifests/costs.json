@@ -1,0 +1,44 @@
+{
+  "verified_date": "2026-10-22",
+  "timezone": "Asia/Shanghai",
+  "currency": "CNY",
+  "scope": "Codex additions shared by v2 and v4; excludes Claude mainline and subscription/compute allocation",
+  "pricing_source": "https://platform.minimax.cn/docs/pricing/overview",
+  "pricing_basis": "official domestic pay-as-you-go list price; not verified actual credits debit",
+  "video_tasks": [
+    {
+      "task_id": "455143580877205",
+      "purpose": "usage-closeup",
+      "resolution": "768P",
+      "output_seconds": 4,
+      "unit_price_cny_per_second": 0.5,
+      "estimated_list_price_cny": 2.0
+    },
+    {
+      "task_id": "455143907721618",
+      "purpose": "score-carrier",
+      "resolution": "768P",
+      "output_seconds": 15,
+      "unit_price_cny_per_second": 0.5,
+      "estimated_list_price_cny": 7.5
+    }
+  ],
+  "h3_subtotal_cny": 9.5,
+  "asr_estimate": {
+    "model": "asr-1.0",
+    "calls": 1,
+    "source_audio_seconds": 15.075,
+    "price_cny_per_hour": 2.5,
+    "amount_cny_before_rounding": 0.01046875,
+    "billing_rounding_or_minimum_verified": false
+  },
+  "total_estimated_list_price_cny_rounded": 9.51,
+  "actual_billing": {
+    "status": "not_verified_per_task",
+    "console_checked": true,
+    "credential_type": "subscription_key_credits",
+    "reason": "Console showed hourly model aggregates and unrelated tasks, without a per-task CNY debit for the two task IDs. Account top-up and balance were not assigned to this project."
+  },
+  "new_h3_tasks_during_v4_fusion_or_repository_publication": 0,
+  "documentation": "../docs/06-费用明细.md"
+}

@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, one continuous shot. It begins with Picture 1, a waist-up view of the woman in the oxblood velvet long-sleeved gown with gold sparkles. The camera pulls out with large amplitude at slow speed and lowers to a low angle, revealing her full figure standing alone in the center of the dark room as she turns to face the room; the velvet train spreads across the stone floor; outside the glass the sky is now empty and black. It arrives at the composition of Picture 2 at the end.
+
+overall_soundscape: Fabric settling, then a deep quiet room tone.
+
+non_diegetic_music: N/A

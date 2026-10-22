@@ -1,0 +1,9 @@
+USE: Keyframe for a short cinematic film; it will be animated by a video model. Landscape 16:9. No lipstick tube, no cosmetics and no makeup products appear anywhere in this shot.
+
+SCENE: Night, inside a dark, minimalist high-rise apartment: polished dark stone floor, one tall floor-to-ceiling glass wall that includes a tall glass balcony door, still covered in raindrops after the rain; one small warm tungsten table lamp far back on the right is the only light inside; she is very close to the camera, the room behind her is dark.
+
+SUBJECT: The woman from Image 1, an extreme close-up framed on her eyes and the bridge of her nose; her mouth is out of frame. She is just opening her eyes, calm. Image 1 is her identity reference ONLY: keep her exact face, eye shape, brows, nose, dark brown softly wavy shoulder-length hair, olive skin, faint freckles, and the small beauty mark just below her LEFT eye. Do not redesign her. IGNORE the plain backdrop and the even studio lighting of Image 1.
+
+DETAILS: A single narrow slice of warm city light from the window falls horizontally across her eyes and the beauty mark below her left eye; the rest of her face stays in deep shadow. 85mm lens, eye level, focus on her eyes.
+
+CONSTRAINTS: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain and gentle halation around bright lights. Real skin texture: visible pores, fine peach fuzz, slight natural asymmetry, a few flyaway hairs. No glamorization, no heavy retouching, no beauty-filter smoothing, no CGI or 3D-render look. No text, no logos.

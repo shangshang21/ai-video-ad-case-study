@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, the woman in profile beside the rain-streaked glass wall shown in <Picture 1>, preserving her face, bare natural lips, black velvet off-shoulder top, the city outside, the crescent moon and the switched-off lamp at the right. She finishes a small turn of her head to the left and settles in profile, looking out at the city; she breathes slowly; faint shadows of raindrops drift across her cheek. The lamp stays off. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape: Soft breathing, the last drops of rain on the glass, a distant city hum.
+
+non_diegetic_music: N/A

@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, a close product shot of the lipstick on the black marble shown in <Picture 1>, preserving the lipstick, the gold sleeve with the NOCTELLE engraving, the oxblood bullet, the black lacquer cap lying beside it, the warm rim light and the out-of-focus city lights on the left. The camera holds a static shot. At 1.00 second, a woman's elegant hand in a long deep-oxblood velvet sleeve enters from the right, picks up the black lacquer cap and slides it down over the bullet; at about 2.60 seconds the cap closes onto the gold collar with a crisp, satisfying click. The hand withdraws to the right, leaving the closed lipstick standing alone in the warm light, its gold band glowing.
+
+overall_soundscape: Soft rain on the glass, the faint brush of velvet, then one crisp, clean click of the cap closing, followed by quiet.
+
+non_diegetic_music: N/A

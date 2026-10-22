@@ -1,0 +1,21 @@
+# 环境与二进制
+.venv/
+venv/
+__pycache__/
+tools/bin/
+*.pyc
+
+# 密钥与本地配置（任何情况下都不入库）
+.env
+.env.*
+*.key
+key
+*secret*
+*token*
+
+# 日志与系统文件
+*.log
+.DS_Store
+
+# Codex local render intermediates
+/.codex-work/

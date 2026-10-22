@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, one continuous shot. It begins with Picture 1: through the open balcony door, thousands of the city's warm lights are floating upward like embers. The camera tilts up with large amplitude at slow speed, following the rising lights into the sky, where the dark night sky gradually turns into an immense sheet of rippling deep-oxblood velvet with the lights embedded in it as tiny gold points and the crescent moon glowing within, arriving at the composition of Picture 2 at the end.
+
+overall_soundscape: Wind rushing past, a deep, swelling low rumble like distant thunder turning into the soft sound of moving fabric.
+
+non_diegetic_music: N/A

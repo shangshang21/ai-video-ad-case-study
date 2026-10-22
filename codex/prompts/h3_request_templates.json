@@ -1,0 +1,42 @@
+{
+  "note": "Sanitized request templates. Image Base64 omitted; see local reference files. No authentication included.",
+  "endpoint": "https://api.minimaxi.com/v2/video_generation",
+  "bridge": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "Single uninterrupted macro beauty shot for the same luxury lipstick campaign. Match the woman in reference image 1, her natural skin texture, burgundy red lips and warm black-and-gold night lighting. Match the exact black and gold lipstick packaging and warm red bullet from reference image 2. A black evening-gloved hand holds the lipstick close to the lower lip; the bullet makes one gentle short finishing stroke at the center of the lower lip, then moves down out of frame. Her lips relax and close naturally. Tiny warm gold highlight travels across the lip. Minimal motion, physically correct finger anatomy, stable identity, no talking, no puckering, no text, no logo overlays, no music. Tight crop below the nose and above the chin. Static camera, shallow depth of field, 85mm beauty macro, premium photoreal film."
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "<data URL from assets/references/lips_reference.jpg>"
+        },
+        "role": "reference_image"
+      },
+      {
+        "type": "image_url",
+        "image_url": {
+          "url": "<data URL from assets/references/product_reference.jpg>"
+        },
+        "role": "reference_image"
+      }
+    ],
+    "resolution": "768P",
+    "duration": 4,
+    "ratio": "16:9"
+  },
+  "score": {
+    "model": "MiniMax-H3",
+    "content": [
+      {
+        "type": "text",
+        "text": "Create a 15 second cinematic abstract brand film with a fully composed instrumental music soundtrack. Audio is the priority: continuous original high-fidelity instrumental score, no silence, no speech, no voices, no humming, no lyrics, no environmental sounds, no sound effects. Dark luxury fashion at night, elegant seductive confidence and warm gold light on deep burgundy velvet. Music: 80 BPM, D minor, deep warm rounded synth bass pulse, restrained low strings, delicate felt piano repeating a memorable three-note D-F-E motif, silky rising orchestral strings, tiny sparse shimmering high notes, subtle brushed percussion. Structure: 0-3s atmospheric sparse intro, 3-7s steady measured pulse, 7-11s one rich beautiful string crescendo and groove, 11-15s resolving D minor add9 chord and clean sustained reverb ending. Sophisticated fashion-house film scoring, intimate expensive sounding, no aggressive drums or epic trailer hits, instrumental music only throughout. Image: abstract macro burgundy silk folds moving very slowly against a black background with subtle gold reflections, no people, no objects, no text. No camera cuts. The audio must be a polished instrumental music cue, clearly audible, stereo, studio production."
+      }
+    ],
+    "resolution": "768P",
+    "duration": 15,
+    "ratio": "16:9"
+  }
+}

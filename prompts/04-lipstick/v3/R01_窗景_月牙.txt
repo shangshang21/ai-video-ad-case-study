@@ -1,0 +1,9 @@
+USE: Keyframe for a short cinematic film; it will be animated by a video model. Landscape 16:9.
+
+SCENE: Night, after the rain, inside a dark, minimalist high-rise apartment: polished dark stone floor, one tall floor-to-ceiling glass wall that includes a tall glass balcony door, still covered in raindrops after the rain; one small warm tungsten table lamp far back on the right is the only light inside. Outside the glass: a fictional modern city at night: glass and steel towers only, no domes, no cathedrals, no historic buildings, no recognizable landmarks; warm sodium-amber street lights, lit office windows, a few red aircraft-warning lights on rooftops, light haze over a wide river. Clouds are parting around a thin crescent moon, pale warm gold through the city haze, in the upper left of the sky.
+
+SUBJECT: The room is completely empty: no people, no figures, no silhouettes.
+
+DETAILS: 24mm lens from the back of the room toward the glass wall, eye level. Raindrops and water streaks on the glass catch the city glow; faint reflections of the lamp on the glass and on the floor.
+
+CONSTRAINTS: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain and gentle halation around bright lights. Natural, physically plausible colors. No people, no extra props, no text, no logos.

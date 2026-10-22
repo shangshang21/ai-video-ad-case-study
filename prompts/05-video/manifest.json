@@ -1,0 +1,100 @@
+[
+ {
+  "name": "V02_膏体剪影",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S02_膏体剪影_B",
+  "last": null
+ },
+ {
+  "name": "V03_睁眼",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S03_睁眼_B",
+  "last": null
+ },
+ {
+  "name": "V05_侧影望窗",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "R05_窗前侧影_关灯",
+  "last": null
+ },
+ {
+  "name": "V04_06_开灯捏起",
+  "mode": "fl2v",
+  "duration": 6,
+  "first": "C04_光扫_台灯_关灯首帧",
+  "last": "C06_手套捏起_台灯_C"
+ },
+ {
+  "name": "V07_开盖",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S07_开盖_B",
+  "last": null
+ },
+ {
+  "name": "V08_旋出",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S08_旋出_B",
+  "last": null
+ },
+ {
+  "name": "V09_嘴唇",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S3B_嘴唇特写_16x9",
+  "last": null
+ },
+ {
+  "name": "V11_玻璃当镜子",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S11_望窗_B",
+  "last": null
+ },
+ {
+  "name": "V12_推门",
+  "mode": "i2v",
+  "duration": 5,
+  "first": "C12_推门之前_手套",
+  "last": null
+ },
+ {
+  "name": "V13_14_灯火上摇",
+  "mode": "fl2v",
+  "duration": 6,
+  "first": "S13_灯火升空_A",
+  "last": "S14_丝绒夜空_A"
+ },
+ {
+  "name": "V15_16_丝绒成裙",
+  "mode": "fl2v",
+  "duration": 6,
+  "first": "S15_丝绒涌入_首帧_手套",
+  "last": "S16_长裙肩部_尾帧_B"
+ },
+ {
+  "name": "V16_17_后拉揭示",
+  "mode": "fl2v",
+  "duration": 6,
+  "first": "S16_长裙肩部_尾帧_B",
+  "last": "S17_全景揭示_长袖_B"
+ },
+ {
+  "name": "V18_回看",
+  "mode": "i2v",
+  "duration": 4,
+  "first": "S18_回看_长袖_B",
+  "last": null
+ },
+ {
+  "name": "V22_定版",
+  "mode": "i2v",
+  "duration": 5,
+  "first": "C22_定版_台灯_B",
+  "last": null
+ }
+]

@@ -1,0 +1,9 @@
+USE: Keyframe for a lipstick commercial; it will be animated by a video model. Landscape 16:9.
+
+SCENE: A dark photo studio, almost total darkness.
+
+SUBJECT: Only the upper part of the lipstick bullet is visible. Image 1 is the lipstick reference: keep the exact glossy black lacquer tube, polished warm-gold sleeve and collar band with the small engraving "NOCTELLE" (the only text allowed), and the deep oxblood satin bullet with its sharply slanted tip.
+
+DETAILS: Real macro photograph, 100mm macro lens. A single thin strip light behind and to the right traces a narrow warm rim of light along the bullet's curved slanted edge, so the lit edge reads as a thin crescent-shaped arc in the upper left area of the frame; the rest of the bullet and the background stay almost black. Tiny real texture visible on the satin surface.
+
+CONSTRAINTS: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain and gentle halation around bright lights. No other objects, no text other than the engraving, no logos.

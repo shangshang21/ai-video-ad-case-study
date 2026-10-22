@@ -1,0 +1,17 @@
+{
+  "strategy": "github_generated_repository_archive",
+  "tag": "codex-noctelle-2026-10-22",
+  "archive_url": "https://github.com/shangshang21/ai-video-ad-case-study/archive/refs/tags/codex-noctelle-2026-10-22.zip",
+  "release_url": "https://github.com/shangshang21/ai-video-ad-case-study/releases/tag/codex-noctelle-2026-10-22",
+  "contains": [
+    "Claude mainline source assets",
+    "Codex generated assets",
+    "v2 and v4 rendered films",
+    "v2 and v4 render scripts",
+    "prompts and process documentation"
+  ],
+  "media_manifest": "artifacts.json",
+  "release_attachment": "MEDIA-SHA256.json",
+  "archive_hash": null,
+  "note": "GitHub generates the repository ZIP from the release tag. The manifest records individual binary media hashes; it does not assert a downloaded archive hash."
+}

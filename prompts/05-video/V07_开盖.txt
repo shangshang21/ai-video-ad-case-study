@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, a macro of the gloved hands and the lipstick shown in <Picture 1>, preserving the black satin gloves, the gold sleeve, the engraving and the city bokeh behind. The gloved fingers lift the black lacquer cap fully off the lipstick in slow motion; as the cap separates, a thin bright line of light flares along the polished gold edge, revealing the oxblood bullet. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape: A crisp, satisfying click of the cap releasing, then a hush.
+
+non_diegetic_music: N/A

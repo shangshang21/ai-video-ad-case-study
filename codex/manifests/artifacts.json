@@ -1,0 +1,87 @@
+[
+  {
+    "file": "assets/audio/v4_mix.mp3",
+    "bytes": 961738,
+    "sha256": "eab2b851bf99a975eff7ca5cceffd5bd5cab4e0ec2d338babee3b7b03c15ebd1"
+  },
+  {
+    "file": "assets/images/bridge_contact.jpg",
+    "bytes": 274052,
+    "sha256": "c012308d032070ceaba59f5748cc4a0392f924b8e3d6e38bb6a4592c17d44a9b"
+  },
+  {
+    "file": "assets/images/source_overview.jpg",
+    "bytes": 264447,
+    "sha256": "08eac306e547f89be8f21f15a104e0e27ea49f329d011c7c4b7bf74b81c7e0f7"
+  },
+  {
+    "file": "assets/images/v2_endcard.jpg",
+    "bytes": 114263,
+    "sha256": "ca0e00b247d9be67ab762cf30826e5b107234aa464c0e178e5be42c96b339fb5"
+  },
+  {
+    "file": "assets/images/v2_v4_comparison.jpg",
+    "bytes": 487996,
+    "sha256": "a9c46d9962bbfc14d68d73a2bc1ca8671414f0d32fc5eb97330b79a39c089dcc"
+  },
+  {
+    "file": "assets/images/v32_hand_contact.jpg",
+    "bytes": 181572,
+    "sha256": "99e14865f98cb764131abb2650600ffa2376765592c0fe9c3f8100f3a2302536"
+  },
+  {
+    "file": "assets/images/v4_endcard.jpg",
+    "bytes": 240298,
+    "sha256": "6223bffbc815e60e4ab3da69081ed91f27061ddeadaea172ee8c489fbb347272"
+  },
+  {
+    "file": "assets/images/v4_preview.gif",
+    "bytes": 2102468,
+    "sha256": "0c6abef6f92b927a1bddbf7f9c29b14e325788fa77530a1a619049ab1a47d562"
+  },
+  {
+    "file": "assets/references/lips_reference.jpg",
+    "bytes": 122448,
+    "sha256": "e2c845b7da9196ffe143a4e039f15b5df4d728c20b029cb159d8e7ba424f5e55"
+  },
+  {
+    "file": "assets/references/product_reference.jpg",
+    "bytes": 64480,
+    "sha256": "75633b2bd03d1de0e692c344738fce6882bc472dc01d35f1473b81e6c5c7963e"
+  },
+  {
+    "file": "assets/source/bridge_generated.mp4",
+    "bytes": 956356,
+    "sha256": "1b9fe3bb5db743f3a2962f1217faf6c501b3534ee32593d3021522d64394a7a3"
+  },
+  {
+    "file": "assets/source/score_generated.mp4",
+    "bytes": 3867987,
+    "sha256": "0b4152f01006e54407c0c4e6746a1e4fdc08b84082d9175afd2bad06d0dff8f8"
+  },
+  {
+    "file": "assets/video/v2_27s.mp4",
+    "bytes": 19859397,
+    "sha256": "e9076424467cc75946a56707404875c01a01af8ad8b1167da5eeb22902f7ee6e"
+  },
+  {
+    "file": "assets/video/v4_30s.mp4",
+    "bytes": 21592780,
+    "sha256": "cc1184369ad7d4827f39ebe457f4b946e955afcd16042490d203b8c0ba9233e6"
+  },
+  {
+    "file": "../assets/05-video/粗剪_全片_v1.mp4",
+    "bytes": 11813738,
+    "sha256": "68465b5a02cea63a087fad140c6d9dcd1ffda8f3457d17bfb4d832cd08e57fdb"
+  },
+  {
+    "file": "../assets/05-video/粗剪_全片_v3.mp4",
+    "bytes": 13949171,
+    "sha256": "6c780db2f5c37fe002e2a3c02411c06f318a1cbda0b403a68a144716b2579cf8"
+  },
+  {
+    "file": "../assets/05-video/粗剪_全片_v3.2.mp4",
+    "bytes": 13445237,
+    "sha256": "2c57d9a3ea9d58632ebbb98602f43ee9cde8aa4f5323ae846d1d60287956b777"
+  }
+]

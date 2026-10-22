@@ -1,0 +1,127 @@
+{
+  "v2": {
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1",
+          "duration": "27.000000",
+          "nb_frames": "648"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0",
+          "duration": "27.000000",
+          "nb_frames": "1267"
+        }
+      ],
+      "format": {
+        "duration": "27.000000",
+        "size": "19859397"
+      }
+    },
+    "full_decode": "passed",
+    "integrated_lufs": -17.0,
+    "true_peak_dbtp": -3.57
+  },
+  "v4": {
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "r_frame_rate": "24/1",
+          "duration": "30.000000",
+          "nb_frames": "720"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "r_frame_rate": "0/0",
+          "duration": "30.000000",
+          "nb_frames": "1408"
+        }
+      ],
+      "format": {
+        "duration": "30.000000",
+        "size": "21592780"
+      }
+    },
+    "full_decode": "passed",
+    "integrated_lufs": -16.99,
+    "true_peak_dbtp": -1.41,
+    "source_commit": "bc66f327c94d9d19d53d9c70e5af682cbb8f56bc"
+  },
+  "repository_v4_rerender": {
+    "status": "passed",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "duration": "30.000000",
+          "nb_frames": "720"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "30.000000",
+          "nb_frames": "1408"
+        }
+      ],
+      "format": {
+        "duration": "30.000000",
+        "size": "21617061"
+      }
+    },
+    "sha256": "347e8a27a6ca7c631ec1638f155b126c5684ef4565c9779372233705da978dfa",
+    "matches_delivered_binary": false,
+    "full_frame_ssim": 0.9916
+  },
+  "human_realtime_viewing": "pending",
+  "human_listening": "pending",
+  "user_visual_acceptance": "pending",
+  "repository_static_checks": {
+    "markdown_links": "passed",
+    "python_syntax": "passed",
+    "credential_scan": "passed",
+    "release_zip_integrity": "passed"
+  },
+  "repository_v2_rerender": {
+    "status": "passed",
+    "media": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_type": "video",
+          "duration": "27.000000",
+          "nb_frames": "648"
+        },
+        {
+          "codec_type": "audio",
+          "duration": "27.000000",
+          "nb_frames": "1267"
+        }
+      ],
+      "format": {
+        "duration": "27.000000",
+        "size": "19859397"
+      }
+    },
+    "sha256": "e9076424467cc75946a56707404875c01a01af8ad8b1167da5eeb22902f7ee6e",
+    "matches_delivered_binary": true
+  }
+}

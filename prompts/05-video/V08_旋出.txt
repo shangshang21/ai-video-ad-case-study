@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, an extreme macro of the lipstick shown in <Picture 1>, preserving the oxblood satin bullet, the gold sleeve and the engraving. The oxblood bullet slowly twists up and rises a little higher out of the gold sleeve, and a soft highlight glides across its satin surface. The camera arcs with small amplitude at slow speed around the lipstick.
+
+overall_soundscape: A faint, smooth mechanical turning sound in near silence.
+
+non_diegetic_music: N/A

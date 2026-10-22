@@ -1,0 +1,13 @@
+USE: Keyframe for a lipstick commercial; it will be animated by a video model. Landscape 16:9.
+
+SCENE: Night, inside the same dark high-rise apartment; behind her, out of focus, the tall window and a few warm city lights. The room is unlit except for one warm tungsten lamp off-frame on the left.
+
+SUBJECT: The woman from Image 1, close-up from the chest up, looking straight into the camera with a faint, effortless, knowing smile, lips closed. Calm, unposed, as if someone just said her name.
+- Image 1 is her identity reference ONLY: keep her exact face, eye shape, nose, jaw, dark brown softly wavy hair, olive skin, faint freckles, and the small beauty mark just below her LEFT eye. Do not redesign her.
+- IGNORE the even studio lighting of Image 1.
+- Her lips are deep oxblood with a satin finish (like the lips in Image 2), slightly worn at the inner edge as if she has been wearing it for an hour.
+- She wears an off-shoulder gown of deep oxblood velvet with tiny scattered warm-gold sparkles; only the neckline and shoulders are visible.
+
+DETAILS: Light: the single warm lamp from camera-left lights the left half of her face; the right half falls into soft shadow with a faint warm rim of city glow on her hair. 85mm lens, eye level, shallow depth of field, focus on her eyes.
+
+CONSTRAINTS: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain. Real skin texture: visible pores, fine lines under the eyes, slight natural asymmetry, a few flyaway hairs. No glamorization, no heavy retouching, no beauty-filter smoothing, no CGI or 3D-render look. No text, no logos.

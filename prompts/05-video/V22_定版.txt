@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, the lipstick on the black marble sideboard beside the lit lamp shown in <Picture 1>, preserving the lipstick, the engraving, the cap lying beside it, the lamp, the glass wall and the city lights. The camera holds a static shot while the city lights twinkle softly. At 3.00 seconds, a woman's hand in a deep-oxblood velvet sleeve enters from the right, picks up the black lacquer cap and places it onto the lipstick with a crisp click, then withdraws.
+
+overall_soundscape: Silence, then one crisp click of the cap closing.
+
+non_diegetic_music: N/A

@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, a wide shot of the dark, empty high-rise apartment shown in <Picture 1>, preserving the tall glass wall, the glass balcony door, the raindrops on the glass, the switched-off lamp on the dark sideboard at the right, the polished stone floor, the city and the river. No people appear. The camera pushes in with small amplitude at slow speed toward the glass wall. The last raindrops slowly slide down the glass. High above the city, the clouds drift apart and the thin crescent moon gradually brightens to a pale warm gold. City lights twinkle softly and their reflections shimmer on the wet floor. The lamp stays off.
+
+overall_soundscape: The last drops of rain tick softly on the glass over a low, distant city hum.
+
+non_diegetic_music: N/A

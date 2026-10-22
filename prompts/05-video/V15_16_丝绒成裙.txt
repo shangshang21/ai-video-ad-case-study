@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, one continuous shot. It begins with Picture 1: deep-oxblood velvet pours slowly through the open balcony door across the dark stone floor toward the woman standing barefoot in the middle of the room. The velvet reaches her feet and flows up around her legs and body like a slow, heavy liquid fabric, covering her black top, trousers and gloves. The camera pushes in with large amplitude at slow speed from the wide shot to a waist-up three-quarter view as the velvet settles on her into a long-sleeved evening gown scattered with tiny gold sparkles, arriving at the composition of Picture 2 at the end; she lowers her gaze calmly.
+
+overall_soundscape: The soft, heavy whisper of velvet sliding across stone and fabric settling.
+
+non_diegetic_music: N/A

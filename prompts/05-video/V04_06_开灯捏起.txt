@@ -1,0 +1,7 @@
+How the reference pictures align with the target video — Picture 1 (from Shot 1) aligns with the 0.00-second mark of the target video; Picture 2 (from Shot 1) aligns with the 6.00-second mark of the target video.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, one continuous static shot of the black marble sideboard by the glass wall. It begins in the darkness of Picture 1: the lamp is off and the closed lipstick stands on the marble. A hand in a long black satin opera glove with a gold ring enters from the lower left and switches on the lamp at its base; with a soft click the lamp lights up and warm light spreads across the marble, making the gold band of the closed lipstick glow. The same gloved hand then moves to the lipstick and picks it up between thumb and index finger, settling into the composition, hand position and lighting of Picture 2 at the end of the shot.
+
+overall_soundscape: A crisp click of the lamp switch, the faint hum of the bulb warming, the soft rustle of satin.
+
+non_diegetic_music: N/A

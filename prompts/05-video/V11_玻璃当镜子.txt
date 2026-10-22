@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, an over-the-shoulder shot of the woman at the dark glass wall shown in <Picture 1>, preserving her hair, black velvet top, the faint reflection of her face on the wet glass and the crescent moon beside it. She looks at her own reflection in the glass as if in a mirror and tilts her head slightly; her reflection moves with her, and the crescent moon glows beside it. The camera pushes in with small amplitude at slow speed toward the reflection.
+
+overall_soundscape: Soft rain drips on the glass and a low city hum.
+
+non_diegetic_music: N/A

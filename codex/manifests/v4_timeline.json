@@ -1,0 +1,135 @@
+[
+  {
+    "name": "夜色",
+    "source": "original",
+    "start": 0.25,
+    "length": 1.25,
+    "frames": 30,
+    "index": 0,
+    "output_start": 0.0,
+    "output_end": 1.25
+  },
+  {
+    "name": "红色的预告",
+    "source": "original",
+    "start": 1.625,
+    "length": 0.75,
+    "frames": 18,
+    "index": 1,
+    "output_start": 1.25,
+    "output_end": 2.0
+  },
+  {
+    "name": "睁眼转头连续拉远_Claude新版",
+    "source": "claude",
+    "start": 2.9166667,
+    "length": 5.5,
+    "frames": 126,
+    "index": 2,
+    "output_start": 2.0,
+    "output_end": 7.25
+  },
+  {
+    "name": "捏起缓推接开盖_Claude最新版v3.2",
+    "source": "claude32",
+    "start": 9.25,
+    "length": 2.25,
+    "frames": 54,
+    "index": 3,
+    "output_start": 7.25,
+    "output_end": 9.5
+  },
+  {
+    "name": "膏体",
+    "source": "original",
+    "start": 11.875,
+    "length": 1.0,
+    "frames": 24,
+    "index": 4,
+    "output_start": 9.5,
+    "output_end": 10.5
+  },
+  {
+    "name": "最后一笔",
+    "source": "bridge",
+    "start": 1.5,
+    "length": 2.75,
+    "frames": 48,
+    "index": 5,
+    "output_start": 10.5,
+    "output_end": 12.5
+  },
+  {
+    "name": "倒影",
+    "source": "original",
+    "start": 15.125,
+    "length": 1.0,
+    "frames": 24,
+    "index": 6,
+    "output_start": 12.5,
+    "output_end": 13.5
+  },
+  {
+    "name": "面向城市",
+    "source": "original",
+    "start": 16.75,
+    "length": 1.0,
+    "frames": 24,
+    "index": 7,
+    "output_start": 13.5,
+    "output_end": 14.5
+  },
+  {
+    "name": "红色漫过夜空",
+    "source": "original",
+    "start": 18.375,
+    "length": 2.5,
+    "frames": 60,
+    "index": 8,
+    "output_start": 14.5,
+    "output_end": 17.0
+  },
+  {
+    "name": "红色成裙_压缩过程",
+    "source": "claude",
+    "start": 22.875,
+    "length": 2.75,
+    "frames": 42,
+    "index": 9,
+    "output_start": 17.0,
+    "output_end": 18.75
+  },
+  {
+    "name": "连续后拉到全身_Claude完整段落",
+    "source": "claude",
+    "start": 25.625,
+    "length": 4.75,
+    "frames": 108,
+    "index": 10,
+    "output_start": 18.75,
+    "output_end": 23.25
+  },
+  {
+    "name": "合盖近景_Claude新版",
+    "source": "claude",
+    "start": 30.5,
+    "length": 4.4166667,
+    "frames": 90,
+    "endcard": true,
+    "index": 11,
+    "output_start": 23.25,
+    "output_end": 27.0
+  },
+  {
+    "name": "近景品牌停留",
+    "source": "claude",
+    "start": 35.375,
+    "length": 0.041666666666666664,
+    "frames": 72,
+    "endcard": true,
+    "freeze": true,
+    "index": 12,
+    "output_start": 27.0,
+    "output_end": 30.0
+  }
+]

@@ -1,0 +1,9 @@
+USE: Keyframe for a short cinematic film; it will be animated by a video model. Landscape 16:9. No lipstick tube, no cosmetics and no makeup products appear anywhere in this shot.
+
+SCENE: Night, looking up from a balcony of a high-rise in a fictional modern city at night: glass and steel towers only, no domes, no cathedrals, no historic buildings, no recognizable landmarks; warm sodium-amber street lights, lit office windows, a few red aircraft-warning lights on rooftops, light haze over a wide river.
+
+SUBJECT: No people. The entire night sky has turned into one immense sheet of real deep-oxblood velvet fabric, slowly rippling and undulating like cloth in a soft wind; the risen city lights are now embedded in it as countless tiny warm-gold points of light; a thin crescent moon, pale warm gold through the city haze, in the upper left of the sky glows within the velvet. The tops of a few glass towers frame the bottom of the image.
+
+DETAILS: 24mm wide lens, low angle looking up. The velvet has real fabric texture: soft pile, deep folds catching warm highlights.
+
+CONSTRAINTS: Photographed as if real: Photorealistic, a real photograph taken on a real camera; 35mm film photograph with fine natural grain and gentle halation around bright lights. No people, no text, no logos.

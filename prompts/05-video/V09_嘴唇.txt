@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, an extreme close-up of the woman's lips shown in <Picture 1>, preserving the deep oxblood satin lip color, her skin texture, hair and gold earring. She softly presses her lips together once, as one does after applying lipstick, then parts them slightly; the corners of her mouth lift into the beginning of a faint smile. The camera holds a static shot.
+
+overall_soundscape: The tiny soft sound of lips pressing together, a quiet breath.
+
+non_diegetic_music: N/A

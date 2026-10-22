@@ -1,0 +1,7 @@
+For the target video, at 0.00 seconds into the target video, <Picture 1> (from [Shot 1]) is fully referenced.
+
+integrated_multimodal_description: [Shot 1] Live-action, cinematic, photorealistic, 35mm film look with fine grain, a close-up of the woman shown in <Picture 1>, preserving her face, the beauty mark below her left eye, oxblood lips and the velvet gown. She meets the camera's gaze; a faint, effortless, knowing smile slowly forms; she blinks once. The camera pushes in with small amplitude at slow speed.
+
+overall_soundscape: Quiet room tone, a soft breath.
+
+non_diegetic_music: N/A
